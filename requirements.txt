@@ -96,5 +96,5 @@ wasabi==1.1.2
 webencodings==0.5.1
 #win-unicode-console==0.5
 #wincertstore==0.2
-wordcloud==1.9.2
+#wordcloud==1.9.2
 youtube-transcript-api==0.6.1
