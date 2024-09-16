@@ -51,7 +51,7 @@ monotonic==1.6
 munkres==1.1.4
 murmurhash==1.0.9
 mysql-connector-python==8.3.0
-navigator-updater==0.3.0
+#navigator-updater==0.3.0
 openai==1.3.7
 pansi==2020.7.3
 pathy==0.10.2
