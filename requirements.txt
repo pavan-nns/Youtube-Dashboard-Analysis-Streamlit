@@ -67,7 +67,7 @@ pydantic_core==2.6.3
 PyDispatcher==2.0.5
 pyls-spyder==0.4.0
 pymongo==4.6.2
-pyproj==3.6.1
+#pyproj==3.6.1
 PyQt5==5.12.3
 PyQtWebEngine==5.12.1
 pytest==7.1.2
