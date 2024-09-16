@@ -13,10 +13,6 @@ catalogue==2.0.9
 click-plugins==1.1.1
 cligj==0.7.2
 comtypes==1.1.10
-conda==22.11.1
-conda-build==3.22.0
-conda-repo-cli==1.0.20
-conda-verify==3.4.2
 confection==0.1.1
 cymem==2.0.7
 daal4py==2021.6.0
